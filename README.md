@@ -2,7 +2,10 @@
   <img src="https://media3.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="600" height="450"/>
 </div>
 <h1 align="center">Hello everybody!</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=292BF7&width=503&lines=%F0%9F%94%A5Intern+Data+Scientist%F0%9F%92%AA" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=292BF7&width=503&lines=%F0%9F%94%A5Intern+Data+Scientist%F0%9F%92%AA" alt="Typing SVG" /></a>
+</div>
+
 My name is Max, I'm Computer Science student and learning into the RTU MIREA currently.
 A few info about me:
 <ul>
