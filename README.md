@@ -3,10 +3,11 @@
 </div>
 <h1 align="center">Hello everybody!</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=292BF7&width=503&lines=%F0%9F%94%A5Intern+Data+Scientist%F0%9F%92%AA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=292BF7&center=true&width=503&lines=%F0%9F%94%A5Intern+Data+Scientist%F0%9F%92%AA" alt="Typing SVG" /></a>
 </p>
 
 My name is Max, I'm Computer Science student and learning into the RTU MIREA currently.
+
 A few info about me:
 <ul>
 <li>Frequently take part in the programming competitions and hackatons;</li>
