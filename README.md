@@ -13,7 +13,7 @@ A few info about me:
 <li>In the future I wish dive into the deep learning and get experience in the follow fields: natural language processing, developing recommendation systems, mlops technologies and others.</li>
 </ul>
 </hr>
-## Languages and tools
+<h2>Languages and tools</h2>
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=cpp&logoColor=white" alt="Cpp Badge"/>
@@ -25,7 +25,7 @@ A few info about me:
   <img src="https://img.shields.io/badge/Catboost-darkblue?style=for-the-badge&logo=catboost&logoColor=white" alt="Catboost Badge"/>
 </div>
 </hr>
-## Social media
+<h2>Social media</h2>
 <div id="badges">
   <a href="https://vk.com/f_kyoub_h">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
