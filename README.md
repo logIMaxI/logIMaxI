@@ -32,7 +32,7 @@ A few info about me:
   <a href="https://vk.com/f_kyoub_h">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="https://telegram.org/f-kyoub-h">
+  <a href="https://t.me/f-kyoub-h">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:makssisasbl@gmail.com">
