@@ -7,9 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3363F7&center=true&width=435&lines=%F0%9F%94%A5Intern+Data+Scientist%F0%9F%92%AA" alt="Typing SVG" /></a><br>
 My name is Max, I'm Computer Science student and learning into the RTU MIREA currently.<br>
 A few info about me:
-- Frequently take part in the programming competitions and hackatons;
-- My passion is learning so in the free-time I study something new for me in these sphears: mathematic annalysis, linear algebra, statistics and probability theory, maching larning;
-- In the future I wish dive into the deep learning and get experience in the follow fields: natural language processing, developing recommendation systems, mlops technologies and others.
+<ul>
+<li>Frequently take part in the programming competitions and hackatons;</li>
+<li>My passion is learning so in the free-time I study something new for me in these sphears: mathematic annalysis, linear algebra, statistics and probability theory, maching larning;</li>
+<li>In the future I wish dive into the deep learning and get experience in the follow fields: natural language processing, developing recommendation systems, mlops technologies and others.</li>
+</ul>
 </hr>
 ## Languages and tools
 <div id="badges">
