@@ -25,6 +25,7 @@ A few info about me:
   <img src="https://img.shields.io/badge/Matplotlib-darkblue?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
   <img src="https://img.shields.io/badge/Seaborn-darkblue?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
   <img src="https://img.shields.io/badge/Catboost-darkblue?style=for-the-badge&logo=catboost&logoColor=white" alt="Catboost Badge"/>
+  <img src="https://img.shields.io/badge/Sklearn-darkblue?style=for-the-badge&logo=sklearn&logoColor=white" alt="Scikit-learn Badge"/>
 </div>
 </hr>
 <h2>Social media</h2>
