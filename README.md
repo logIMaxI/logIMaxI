@@ -11,7 +11,7 @@ My name is Max, I'm Computer Science student and learning into the RTU MIREA cur
 A few info about me:
 <ul>
 <li>Frequently take part in the programming competitions and hackatons;</li>
-<li>My passion is learning so in the free-time I study something new for me in these sphears: mathematic annalysis, linear algebra, statistics and probability theory, machine learning;</li>
+<li>My passion is learning so in the free-time I study something new for me in these spheres: mathematic annalysis, linear algebra, statistics and probability theory, machine learning;</li>
 <li>In the future I wish dive into the deep learning and get experience in the follow fields: natural language processing, developing recommendation systems, mlops technologies and others.</li>
 </ul>
 </hr>
