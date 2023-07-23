@@ -1,14 +1,11 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="600" height="450"/>
-</div> <br>
+</div>
 <h1 align="center">Hello everybody!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3363F7&center=true&width=435&lines=%F0%9F%94%A5Intern+Data+Scientist%F0%9F%92%AA" alt="Typing SVG" /></a><br>
-<h2>Greeting
-  <body>
-    My name is Max, I'm Computer Science student and learning into the RTU MIREA currently.<br>
-    A few info about me:
-  </body>
-</h2>
+<h2>Greeting</h2>
+My name is Max, I'm Computer Science student and learning into the RTU MIREA currently.
+A few info about me:
 <ul>
 <li>Frequently take part in the programming competitions and hackatons;</li>
 <li>My passion is learning so in the free-time I study something new for me in these sphears: mathematic annalysis, linear algebra, statistics and probability theory, maching larning;</li>
