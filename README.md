@@ -26,6 +26,8 @@ A few info about me:
   <img src="https://img.shields.io/badge/Seaborn-darkblue?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
   <img src="https://img.shields.io/badge/Catboost-darkblue?style=for-the-badge&logo=catboost&logoColor=white" alt="Catboost Badge"/>
   <img src="https://img.shields.io/badge/Sklearn-darkblue?style=for-the-badge&logo=sklearn&logoColor=white" alt="Scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/Pytorch?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch Badge"/>
+  <img src="https://img.shields.io/badge/XGBoost?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost Badge"/>
 </div>
 </hr>
 <h2>Social media</h2>
